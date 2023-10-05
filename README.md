@@ -13,9 +13,9 @@ In this competition, organized by DrivenData, the goal is to predict the total n
 
 I started with a Random Forest Regressor, leveraging its ability to handle complex relationships in the data. The model was trained using various features and was a foundation for further exploration.
 
-###### 2. GradientBoostingRegressor & XGBoost Regressor
+###### 2. GradientBoostingRegressor, Ridge Regression & XGBoost Regressor
 
-Exploring ensemble methods, I implemented GradientBoostingRegressor and XGBoost Regressor. These models excel at capturing intricate patterns and provided substantial improvements in prediction accuracy.
+Exploring ensemble methods, I implemented GradientBoostingRegressor, Ridge Regression, and XGBoost Regressor. These models excel at capturing intricate patterns and provided substantial improvements in prediction accuracy.
 
 ###### 3. Deep Learning Model
 
