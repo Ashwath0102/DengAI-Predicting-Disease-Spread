@@ -40,6 +40,8 @@ Feel free to explore the code, methodologies, and results in this repository. Le
 
 Competition Link: *https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/*
 
+Profile Link: *https://www.drivendata.org/users/Ashwath_baskar/*
+
 Public Score: 26.1755 (Mean Absolute Error)
 
 Rank: 2452 out of 13,797 participants (as of the latest update)
