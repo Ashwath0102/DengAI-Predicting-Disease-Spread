@@ -42,8 +42,8 @@ Competition Link: *https://www.drivendata.org/competitions/44/dengai-predicting-
 
 Profile Link: *https://www.drivendata.org/users/Ashwath_baskar/*
 
-Public Score: 26.1755 (Mean Absolute Error)
+Public Score: 26.0817 (Mean Absolute Error)
 
-Rank: 2452 out of 13,797 participants (as of the latest update)
+Rank: 2306 out of 13,864 participants (as of the latest update)
 
 Happy coding! 🚀
